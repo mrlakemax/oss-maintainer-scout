@@ -32,8 +32,8 @@ oss-scout = "oss_maintainer_scout.cli:main"
 dev = ["pytest>=8"]
 
 [project.urls]
-Homepage = "https://github.com/jidouqie/oss-maintainer-scout"
-Issues = "https://github.com/jidouqie/oss-maintainer-scout/issues"
+Homepage = "https://github.com/mrlakemax/oss-maintainer-scout"
+Issues = "https://github.com/mrlakemax/oss-maintainer-scout/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

@@ -7,13 +7,13 @@ Use this only after the repository is public and the project has at least a firs
 GitHub username:
 
 ```text
-jidouqie
+mrlakemax
 ```
 
 GitHub repository URL:
 
 ```text
-https://github.com/jidouqie/oss-maintainer-scout
+https://github.com/mrlakemax/oss-maintainer-scout
 ```
 
 Maintainer role:
